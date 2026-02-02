@@ -99,13 +99,13 @@ End-to-end encrypted messaging application with military-grade security
 
 ---
 
-## GitHub Stats
+## GitHub Profile
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=DylanG5&theme=transparent&hide_border=true" alt="GitHub Streak"/>
+![Profile Views](https://komarev.com/ghpvc/?username=DylanG5&color=0969DA&style=for-the-badge&label=Profile+Views)
 
-<img src="https://github-readme-stats.vercel.app/api?username=DylanG5&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub Stats"/>
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DylanG5&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
