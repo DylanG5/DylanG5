@@ -105,8 +105,6 @@ End-to-end encrypted messaging application with military-grade security
 
 ![Profile Views](https://komarev.com/ghpvc/?username=DylanG5&color=0969DA&style=for-the-badge&label=Profile+Views)
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DylanG5&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
 </div>
 
 ---
