@@ -107,6 +107,12 @@ End-to-end encrypted messaging application with military-grade security
 
 </div>
 
+<div align="center">
+
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=DylanG5&theme=transparent&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
 ---
 
 ## What I'm Working On
